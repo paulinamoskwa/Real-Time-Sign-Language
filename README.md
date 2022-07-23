@@ -159,7 +159,8 @@ Lastly, `val_batch0_pred.jpg` shows validation batch 0 predictions.
 </p>
 
 ## ✍️ **About `LabelImg`**
-`LabelImg` is a (free and easily accessible, thank you 🥰) package for label images for object detection. How does it work? There are a couple of steps to follow.
+`LabelImg` is a (free and easily accessible, thank you 🥰) package for label images for object detection.<br>
+How does it work? There are a couple of steps to follow.
 
 1. First of all, it is necessary to clone the repository. It is even possible to run the command from a notebook:<br>
 ```

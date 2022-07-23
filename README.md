@@ -20,7 +20,7 @@ The theory regarding the YOLO model was covered in an earlier repository, availa
 ## 📝 **Results on ASL dataset**
 The dataset is freely available [here](https://public.roboflow.com/object-detection/american-sign-language-letters/1). It has a lot of images: 1512 for training, 144 for validation and 72 for testing. The problem is the type of images. They are very accurate and very clear, yet they look very similar to each other and do not fit new contexts. 
 
-As previously mentioned, I trained a `Yolov5`, training it for almost 4h just to get a model that is unable to recognize almost any letter in a new context. I realized only after several attempts (I changed the image size from 256 to 512, 448 and even 1024, changed the batch size between 16, 32 etc, and even the number of workers) that the problem was the dataset.
+As previously mentioned, I trained a `Yolov5` model (for almost 4h) just to get a model that is unable to recognize almost any letter in a new context. I realized only after several attempts (I changed the image size from 256 to 512, 448 and even 1024, changed the batch size between 16, 32 etc, and even the number of workers) that the problem was the dataset.
 
 <p align="center">
 <img src='./Miscellaneous/bad_hello_gif.gif' width='500'/><br>

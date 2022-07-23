@@ -42,7 +42,7 @@ First of all, it is possible to visualize:
 
 <p align="center">
 <img src='./Miscellaneous/ASL/labels.jpg' width='700'/><br>
-<i>In order: 1. in the upper-left corner, 2. in the upper-right corner, 3. in the lower-left corner and 4. in the lower-right corner.</i>
+<i>In order: 1. in the upper-left, 2. in the upper-right, 3. in the lower-left and 4. in the lower-right.</i>
 </p>
 
 More informations about <span> $x, y, \hspace{2pt}width, \hspace{2pt}height$ </span> are also available in an other format.
